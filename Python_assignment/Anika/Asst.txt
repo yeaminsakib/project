@@ -1,0 +1,31 @@
+
+nload or print this file.
+ICT505 Assessment 3 Individual
+b) Create a choropleth map that visualizes a specific attribute of the dataset, such as population density or GDP per capita.
+c) Customize the map by adding a legend, adjusting the colour scheme, and providing a title. Tasks-4 (7x5=35 Marks)
+
+
+
+
+Tkinter is a library for the Python programming language that is used to develop GUIs for several platforms. Tkinter offers a straightforward method of creating both basic desktop applications and more complicated software with an intuitive interface. Python's default graphical user interface (GUI) module is called Tkinter. It offers a widget library that may be used to rapidly develop graphical user interfaces. Tkinter is an easy-to-use GUI toolkit for Python that is based on the Tk toolkit, originally designed for the Tcl programming language. In this task, students are asked with developing a Python GUI-based inventory system. The main goal of this task is to provide an efficient and user-friendly inventory management system. that streamlines operations, improves accuracy, and enhances overall inventory control. The task will demonstrate proficiency in Tkinter GUI development, database management, data manipulation, and user interface design.
+Description and Instructions
+Students are required to write a python code which use Tkinter GUI platform to perform the following tasks
+1.
+User Authentication: Implement a secure login system to authenticate users and restrict access to authorized personnel only. For example
+Inventory Management System
+or print this file.
+2.
+Product Management: Provide functionalities to add, update, and delete products in the inventory database. Users can enter details such as product name, quantity, price, and category. For example
+Homepage
+Name sdfd
+Quantity 5
+Price 56
+Homepage
+Category special Add Product
+Product ID to delete
+Delete Product
+3.
+Stock Tracking: Enable real-time tracking of inventory levels by recording purchases, sales, and returns. The system should automatically update stock quantities and generate alerts for low stock items.
+Search
+LO
+W
