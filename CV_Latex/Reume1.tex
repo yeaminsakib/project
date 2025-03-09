@@ -1,0 +1,125 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[left=0.7in, right=0.7in, top=0.7in, bottom=0.7in]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{multicol}  % For two-column layout
+\usepackage{setspace}  % For line spacing
+
+% Set font size and line spacing
+\renewcommand{\baselinestretch}{1.1}  % Line spacing for better readability
+\setlength{\parskip}{0.3em}  % Reduced Paragraph spacing
+\setlength{\parindent}{0pt}  % No indentation for paragraphs
+
+% Fonts and Title formatting
+\renewcommand{\rmdefault}{ptm}  % Times Roman font
+\titleformat{\section}[block]{\large\bfseries\color{black}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}[runin]{\color{black}\bfseries}{\thesubsection}{1em}{}[:]
+\titleformat{\subsubsection}[runin]{\color{black}}{}{0em}{}[:]
+
+% Remove section numbering
+\setcounter{secnumdepth}{0}
+
+% Two-column layout settings
+\begin{document}
+
+% Full width section for name, address, and objective
+\begin{center}
+    \textbf{\huge MD. YEAMIN ISLAM SAKIB} \\[0.5em]
+    Web Developer, Uttara, Dhaka, Bangladesh \\
+    \href{mailto:yeaminsakib@gmail.com}{yeaminsakib@gmail.com} — +8801705118122 \\
+    LinkedIn: \href{https://linkedin.com/in/yeaminsakib}{linkedin.com/in/yeaminsakib} \\ GitHub: \href{https://github.com/yeaminsakib}{github.com/yeaminsakib} \\
+    Portfolio: \href{https://yeaminsakib.com}{yeaminsakib.com}
+\end{center}
+
+% Change from center to flushleft for the objective
+\begin{flushleft}
+    \section*{Objective}
+    I’m a Computer Science graduate, excited to apply my web development, programming, and cybersecurity skills to work on interesting projects and solve real-world problems.
+\end{flushleft}
+
+% Start two-column layout from below the objective section
+\begin{multicols}{2}
+    % Left Column: Education, Skills, Languages, and Hobbies
+    \begin{flushleft}
+        \section*{Education}
+        \noindent \textbf{M.Sc. in Cyber Security} \\
+        Bangladesh University of Professionals — 2025–Present
+
+        \vspace{0.3em}
+        \noindent \textbf{B.Sc. in Computer Science and Engineering} \\
+        Bangladesh Army University of Science and Technology (BAUST) — 2020–2024 — CGPA: 3.4/4.0
+
+        \vspace{0.3em}
+        \noindent \textbf{Higher Secondary Certificate (HSC) in Science} \\
+        Rajuk Uttara Model College — 2018–2019 — CGPA: 5.0/5.0
+
+        \vspace{0.3em}
+        \noindent \textbf{Secondary School Certificate (SSC) in Science} \\
+        Safiuddin Sarkar Academy and College — 2012–2017 — CGPA: 5.0/5.0
+
+        \section*{Technical Skills}
+        \begin{itemize}[left=0em, labelsep=1em, label=\textbullet, itemsep=0.2em]
+            \item \textbf{Programming Languages:} Python, HTML, CSS, PHP
+            \item \textbf{Web Development:} HTML, CSS, Bootstrap, WordPress, PHP, MySQL, Python Django
+            \item \textbf{Database Management:} MySQL, PHPMyAdmin
+            \item \textbf{Operating Systems:} Windows, Linux, Ubuntu
+            \item \textbf{Cybersecurity:} WordPress Security, Ethical Hacking
+            \item \textbf{Tools \& Misc:} GitHub, LaTeX
+        \end{itemize}
+
+        \section*{Languages}
+        \begin{itemize}[left=0em, labelsep=1em, label=\textbullet, itemsep=0.2em]
+            \item \textbf{Bangla:} Native
+            \item \textbf{English:} Basic
+        \end{itemize}
+
+        \section*{Hobbies \& Interests}
+        \begin{itemize}[left=0em, labelsep=1em, label=\textbullet, itemsep=0.2em]
+            \item Playing Capture the Flag (CTF) challenges
+            \item Reading books
+        \end{itemize}
+    \end{flushleft}
+
+    % Right Column: Projects, Certifications, References
+    \begin{flushleft}
+        \section*{Projects}
+        \noindent \textbf{1. Bangla Digit Recognition} \\
+        Role: Group Leader — Technologies: Python \\
+        Machine learning model for Bangla digit recognition.
+
+        \vspace{0.3em}
+        \noindent \textbf{2. Hall Management System} \\
+        Role: Group Leader — Technologies: HTML, CSS, Bootstrap, PHP, MySQL \\
+        Fully functional hall management system.
+
+        \vspace{0.3em}
+        \noindent \textbf{3. Gaming Website} \\
+        Role: Group Leader — Technologies: HTML, CSS, Python Django\\
+        Interactive gaming website.
+
+        \vspace{0.3em}
+        \noindent \textbf{4. Learning Management System} \\
+        Role: Group Leader — Technologies: HTML, CSS, PHP, MySQL, WordPress \\
+        Online course and student registration system.
+        
+        \section*{Certifications \& Achievements}
+        \begin{itemize}[left=0em, labelsep=1em, label=\textbullet, itemsep=0.2em]
+            \item Advance WordPress Development
+            \item ICT Olympiad 2022
+            \item ROBAUST Line Follower Contest
+            \item ROBAUST Programming Contest
+            \item Ethical Hacking for Professionals
+        \end{itemize}
+
+        \section*{References}
+        \noindent \textbf{Engr. Hasan Muhammad Kafi} \\
+        Assistant Professor, CSE, BAUST \\
+        Phone: +8801718781841 \\
+        Email: \href{mailto:kafi@baust.edu.bd}{kafi@baust.edu.bd}
+    \end{flushleft}
+\end{multicols}
+
+\end{document}
