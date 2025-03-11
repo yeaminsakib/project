@@ -1,0 +1,33 @@
+1. Data Preprocessing:
+   - Data Cleaning (Handle missing values, duplicates, errors)
+   - Feature Scaling/Normalization
+   - Categorical Encoding (One-Hot, Label Encoding)
+   - Handling Imbalanced Data (SMOTE, Class Weights) (No need cause overall_stress_level is balanced)
+2. Exploratory Data Analysis (EDA):
+   - Univariate & Bivariate Analysis
+   - Visualizations (Histograms, Boxplots, Heatmaps)
+   - Statistical Testing (Pearson, Chi-Square)
+3.Feature Engineering:
+   - Feature Selection (RFE, Mutual Information, Feature Importance)
+   - Feature Construction (Create new features)
+4.*Model Selection:
+   - Start with Simple Models (Logistic Regression, Decision Trees)
+   - Move to Complex Models (Random Forest, Gradient Boosting, SVM, KNN)
+   - Neural Networks (for large datasets)
+5. Model Evaluation:
+   - Cross-Validation (K-Fold)
+   - Evaluation Metrics (Accuracy, Precision, Recall, F1-Score, ROC-AUC for classification or MAE, MSE, R² for regression)
+   - Confusion Matrix (for classification)
+6. Model Tuning:
+   - Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)
+   - Ensemble Methods (Bagging, Boosting, Stacking)
+7. Overfitting & Underfitting:
+   - Regularization (L1, L2)
+   - Early Stopping (for Neural Networks)
+   - Cross-Validation (to detect overfitting)
+8. Model Deployment & Monitoring:
+   - Deployment (e.g., Flask, Docker)
+   - Model Monitoring (Track performance, retrain if needed)
+9. Model Explainability:
+   - Feature Importance
+   - SHAP Values, LIME (for complex models)
