@@ -1,0 +1,27 @@
+Predicting Student Stress and Smartphone Addiction using by machine learning
+
+For Student Stress Prediction:
+Self_Reported_Stress_Level (Directly related to stress)
+Overall_Stress_Level (Directly related to stress)
+Negative_Impact_On_Academics (Academic impact could be due to stress)
+Avg_Sleep_Hours_Per_Night (Sleep deprivation contributes to stress)
+Anxiety_Away_From_Phone (Phone-related anxiety could increase stress)
+Daily_Screen_Time_Mins (Higher screen time could be linked to stress)
+
+For Mobile Addiction Prediction:
+Self_Reported_Addiction_Scale (Direct measure of addiction)
+Daily_Screen_Time_Mins (More screen time indicates possible addiction)
+Night_Usage_Mins (Using phones at night is a sign of addiction)
+Attempts_To_Reduce_Usage (Failed attempts may suggest addiction)
+Unlocks_Per_Day (Frequent unlocks suggest addiction)
+Total_Notifications_Per_Day (More notifications may lead to higher phone usage)
+Unnecessary Columns
+The following columns do not contribute significantly to predicting stress or addiction:
+
+Unnamed: 0 (Index column, not needed)
+Timestamp (Does not help in prediction)
+Is_Student (All values are "Yes", so it's not useful)
+Gender (Could be useful for demographic studies but not necessarily predictive)
+
+
+
