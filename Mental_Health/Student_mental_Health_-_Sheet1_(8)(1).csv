@@ -1,0 +1,319 @@
+Gender,Age,City,CGPA,Study Hours Per Day,Program,Residence Type,Academic Pressure,Does the end of the semester affect sense of the academic pressure?,How often you feel Academic Pressure in a running semester?,How many times during a semester did you feel that you couldn't handle all of the required academic tasks?,Are you satisfied with your results each semester?,How much academic help do you get from your friends?,Did you receive a waiver or scholarship at your university?,How does the lack of financial aid affect your academic performance?,Chronic_Illness,Sleep Duration(hours),Sleep Quality,Financial Stress,Have you ever had suicidal thoughts ?,Overall Student mental Health
+Male,20,Gazipur,3.6,3,CSE,In campus,Medium,No,Never,Sometimes,Yes,Always,Yes,Slightly,No,5,Poor,No,No,Good
+Female,20,Gazipur,2.77,2,CSE,In campus,High,No,Always,Sometimes,No,Never,No,Slightly,No,5,Poor,Yes,No,Bad
+Male,19,Dhaka,3.31,2,Architecture,In campus,Low,Yes,Always,Never,No,Sometimes,Yes,Moderately,Yes,5,Average,No,No,Medium
+Female,19,Jessore,2.78,5,BBA,In campus,High,No,Sometimes,Sometimes,No,Sometimes,No,Slightly,No,5,Average,No,No,Medium
+Female,20,Khulna,3.21,5,CSE,With Family,High,Yes,Sometimes,Never,No,Never,Yes,Significantly,No,8,Good,Yes,Yes,Medium
+Female,19,Mymensingh,3.23,2,Law,With Family,Low,No,Sometimes,Sometimes,Yes,Never,No,Slightly,No,10,Good,Yes,No,Good
+Male,20,Mymensingh,3.5,5,Law,In campus,Medium,Yes,Never,Sometimes,Yes,Never,Yes,Significantly,No,6,Average,No,No,Good
+Female,19,Dhaka,2.81,2,Civil,In campus,Medium,No,Sometimes,Sometimes,NO,Sometimes,No,Significantly,Yes,7,Good,Yes,No,Medium
+Male,20,Rajshahi,2.6,4,Medicine,In campus,Low,Yes,Sometimes,Always,No,Never,No,Moderately,No,5,Average,Yes,No,Bad
+Female,20,Sylhet,2.67,2,CSE,In campus,Low,Yes,Always,Always,Yes,Never,Yes,Slightly,No,8,Good,No,No,Medium
+Male,20,Khulna,2.63,2,CSE,With Family,High,No,Sometimes,Never,Yes,Never,Yes,Moderately,Yes,10,Poor,Yes,Yes,Bad
+Male,19,Rangpur,3.01,3,CSE,With Family,Medium,No,Sometimes,Never,Yes,Always,Yes,Slightly,No,6,Average,No,No,Good
+Male,20,Sylhet,2.73,2,Pharmacy,With Family,High,Yes,Always,Always,No,Sometimes,No,Slightly,No,4,Poor,Yes,Yes,Bad
+Male,20,Rangpur,3.6,3,Civil,In campus,Medium,No,Never,Sometimes,No,Sometimes,No,Slightly,Yes,6,Average,Yes,No,Medium
+Male,19,Sylhet,3.6,5,Law,With Family,Low,Yes,Never,Always,No,Never,Yes,Moderately,No,4,Average,Yes,Yes,Medium
+Male,19,Rajshahi,3.9,3,Pharmacy,With Family,Low,No,Sometimes,Never,No,Always,No,Significantly,No,6,Average,Yes,No,Good
+Female,20,Barisal,3.23,4,Architecture,In campus,Low,No,Always,Sometimes,No,Never,No,Slightly,Yes,6,Average,No,Yes,Good
+Female,19,Mymensingh,3.84,5,CSE,In campus,Medium,Yes,Sometimes,Sometimes,No,Sometimes,Yes,Moderately,Yes,8,Good,No,No,Good
+Male,20,Chittagong,3.9,3,Accounting,With Family,Low,Yes,Sometimes,Sometimes,Yes,Sometimes,Yes,Moderately,No,7,Good,Yes,Yes,Medium
+Male,20,Chittagong,2.92,2,Accounting,In campus,Medium,No,Always,Sometimes,No,Never,No,Significantly,Yes,3,Poor,Yes,Yes,Bad
+Female,19,Chittagong,3.15,5,Accounting,In campus,Medium,Yes,Always,Sometimes,No,Sometimes,Yes,Slightly,No,5,Poor,No,No,Medium
+Female,19,Rajshahi,2.64,3,Accounting,In campus,Low,Yes,Never,Sometimes,Yes,Always,No,Moderately,Yes,5,Average,No,No,Bad
+Male,19,Rangpur,2.91,4,CSE,With Family,High,No,Always,Never,Yes,Never,No,Slightly,No,8,Good,No,No,Medium
+Female,19,Dhaka,2.66,5,Law,In campus,Low,No,Never,Never,No,Always,Yes,Moderately,No,3,Poor,Yes,No,Medium
+Male,20,Dhaka,2.84,2,Medicine,With Family,Medium,Yes,Sometimes,Never,Yes,Sometimes,Yes,Moderately,No,4,Poor,No,Yes,Bad
+Female,19,Dhaka,2.84,5,Civil,With Family,High,Yes,Always,Never,No,Always,No,Slightly,Yes,7,Good,No,No,Medium
+Male,19,Dhaka,3.67,5,Civil,In campus,Medium,No,Sometimes,Sometimes,Yes,Sometimes,Yes,Slightly,No,5,Average,No,No,Good
+Male,19,Khulna,3.81,3,Accounting,In campus,High,No,Always,Sometimes,Yes,Always,Yes,Slightly,No,4,Average,No,No,Good
+Female,20,Rajshahi,3.8,4,Civil,In campus,Medium,No,Never,Never,Yes,Never,Yes,Moderately,Yes,7,Good,Yes,No,Medium
+Female,19,Khulna,3.7,4,Accounting,With Family,High,Yes,Sometimes,Sometimes,Yes,Sometimes,Yes,Significantly,No,8,Good,Yes,No,Medium
+Male,20,Dhaka,2.96,4,CSE,With Family,Low,Yes,Never,Sometimes,Yes,Never,Yes,Slightly,No,7,Good,No,No,Good
+Female,19,Jessore,2.53,3,Economics,With Family,High,No,Never,Always,Yes,Always,Yes,Moderately,Yes,6,Average,No,No,Medium
+Male,19,Rajshahi,3.81,2,Law,With Family,High,Yes,Always,Always,No,Sometimes,Yes,Moderately,No,7,Good,No,No,Bad
+Female,20,Sylhet,3.72,4,Civil,With Family,Low,No,Never,Never,Yes,Always,No,Slightly,Yes,5,Average,Yes,No,Medium
+Male,19,Mymensingh,3.3,2,Accounting,With Family,Low,Yes,Sometimes,Always,Yes,Never,Yes,Moderately,Yes,6,Good,Yes,Yes,Bad
+Female,20,Mymensingh,3.3,4,Civil,With Family,Low,No,Sometimes,Sometimes,No,Always,No,Significantly,No,4,Poor,No,No,Good
+Male,19,Mymensingh,3.63,4,CSE,With Family,Medium,Yes,Never,Never,No,Sometimes,Yes,Slightly,No,8,Good,No,No,Medium
+Female,19,Rajshahi,3.82,4,CSE,In campus,Medium,No,Sometimes,Sometimes,Yes,Sometimes,Yes,Slightly,Yes,6,Average,No,No,Good
+Male,19,Sylhet,3.78,2,CSE,In campus,High,No,Sometimes,Never,No,Never,No,Slightly,Yes,7,Good,No,No,Good
+Male,19,Jessore,2.96,4,Civil,With Family,Low,No,Always,Always,No,Sometimes,Yes,Significantly,Yes,8,Good,No,No,Medium
+Female,20,Khulna,2.5,4,Accounting,With Family,High,Yes,Always,Sometimes,No,Sometimes,No,Slightly,Yes,4,Poor,Yes,Yes,Bad
+Female,20,Sylhet,3.9,4,Architecture,With Family,Low,No,Never,Never,Yes,Sometimes,Yes,Slightly,No,7,Good,No,No,Good
+Male,20,Rangpur,2.5,4,CSE,In campus,Low,Yes,Sometimes,Always,No,Sometimes,No,Moderately,No,4,Poor,No,No,Medium
+Male,20,Sylhet,3.45,3,CSE,With Family,Medium,Yes,Never,Sometimes,No,Never,Yes,Slightly,No,6,Average,No,No,Good
+Male,20,Rangpur,3.2,3,Civil,With Family,Medium,No,Never,Always,Yes,Always,Yes,Moderately,No,8,Good,No,No,Good
+Female,20,Jessore,2.51,4,Economics,In campus,High,No,Always,Sometimes,No,Sometimes,No,Moderately,Yes,3,Poor,No,No,Medium
+Male,20,Khulna,3.8,2,Accounting,With Family,High,Yes,Never,Sometimes,No,Sometimes,No,Slightly,Yes,7,Good,No,Yes,Good
+Female,19,Dhaka,3.51,3,Civil,In campus,Low,Yes,Always,Sometimes,Yes,Sometimes,Yes,Slightly,No,7,Good,No,No,Medium
+Female,19,Dhaka,2.45,2,Accounting,In campus,High,No,Sometimes,Always,No,Sometimes,Yes,Significantly,No,5,Average,No,Yes,Bad
+Female,20,Dhaka,2.54,4,Business Administration,With Family,Medium,No,Always,Never,No,Never,No,Significantly,Yes,6,Average,No,Yes,Bad
+Female,22,Dhaka,3.19,2,Economics,With Family,Medium,No,Sometimes,Always,Yes,Sometimes,No,Moderately,No,8,Good,No,No,Good
+Female,22,Dhaka,2.66,3,Public Health,In campus,High,No,Always,Sometimes,No,Never,No,Moderately,No,3,Poor,Yes,Yes,Bad
+Male,21,Comilla,3.5,3,BBA,In campus,High,Yes,Never,Never,No,Always,No,Moderately,No,4,Poor,Yes,No,Medium
+Male,22,Tangail,3.6,4,BBA,In campus,Low,No,Sometimes,Sometimes,Yes,Sometimes,No,Significantly,No,8,Good,Yes,No,Medium
+Male,22,Khulna,3.96,4,Pharmacy,With Family,High,No,Never,Never,Yes,Always,Yes,Moderately,No,5,Average,No,No,Good
+Female,21,Sylhet,3.96,5,BBA,In campus,Low,Yes,Never,Always,No,Always,No,Significantly,Yes,7,Good,No,No,Medium
+Female,22,Dhaka,3.08,2,CSE,With Family,Low,No,Always,Always,No,Never,No,Moderately,Yes,8,Poor,Yes,No,Medium
+Male,22,Gazipur,3.3,5,Law,With Family,Low,No,Always,Sometimes,No,Never,No,Slightly,Yes,3,Poor,Yes,No,Medium
+Female,21,Gazipur,3.96,4,Architecture,With Family,High,No,Never,Never,Yes,Always,Yes,Moderately,Yes,6,Good,No,No,Medium
+Male,21,Gazipur,3.96,3,Law,In campus,High,Yes,Sometimes,Never,No,Sometimes,No,Significantly,Yes,4,Good,No,No,Medium
+Female,21,Gazipur,2.5,4,Law,With Family,High,No,Always,Sometimes,No,Never,Yes,Significantly,No,5,Average,No,No,Bad
+Male,22,Khulna,2.69,3,Economics,In campus,High,Yes,Sometimes,Sometimes,No,Never,No,Significantly,Yes,5,Average,No,No,Bad
+Female,21,Barisal,3.09,2,English,In campus,Low,Yes,Always,Never,Yes,Always,No,Slightly,No,8,Good,No,No,Good
+Male,21,Chittagong,3.61,5,BBA,In campus,Low,Yes,Sometimes,Always,No,Sometimes,Yes,Significantly,Yes,7,Good,No,No,Medium
+Male,22,Sylhet,2.56,3,BBA,In campus,High,No,Sometimes,Sometimes,No,Sometimes,Yes,Significantly,Yes,6,Average,No,No,Medium
+Female,22,Comilla,3.56,3,EEE,With Family,Medium,No,Sometimes,Never,No,Sometimes,Yes,Moderately,No,8,Good,No,No,Good
+Male,21,Rangpur,3.43,5,Public Health,In campus,Low,Yes,Never,Always,Yes,Always,No,Significantly,No,6,Average,Yes,No,Good
+Male,21,Sylhet,2.5,4,Economics,With Family,High,No,Always,Sometimes,No,Never,No,Moderately,No,3,Poor,Yes,Yes,Bad
+Female,22,Sylhet,2.6,4,CSE,With Family,Low,Yes,Sometimes,Always,Yes,Sometimes,No,Moderately,No,5,Average,Yes,No,Bad
+Male,22,Khulna,3.64,3,CSE,In campus,Low,No,Always,Sometimes,Yes,Always,No,Slightly,No,8,Good,No,No,Good
+Male,21,Dhaka,3.7,4,CSE,With Family,Medium,Yes,Always,Sometimes,Yes,Always,Yes,Moderately,No,7,Good,No,No,Good
+Female,22,Chittagong,3.2,3,Pharmacy,In campus,High,Yes,Sometimes,Always,No,Sometimes,No,Slightly,Yes,6,Average,Yes,No,Medium
+Male,21,Rajshahi,2.8,5,Pharmacy,With Family,Low,No,Never,Never,Yes,Never,Yes,Slightly,No,8,Good,No,No,Good
+Female,22,Sylhet,3.4,3,Pharmacy,In campus,Medium,Yes,Always,Sometimes,Yes,Sometimes,No,Moderately,Yes,5,Average,Yes,No,Medium
+Male,21,Khulna,2.6,4,Pharmacy,With Family,High,Yes,Always,Sometimes,No,Sometimes,No,Significantly,No,6,Average,Yes,No,Bad
+Male,21,Dhaka,3.5,4,CSE,With Family,High,Yes,Always,Sometimes,Yes,Always,No,Significantly,No,6,Average,Yes,No,Good
+Female,22,Chittagong,3.2,3,BBA,In Campus,Medium,No,Sometimes,Never,No,Sometimes,Yes,Slightly,Yes,7,Good,Yes,Yes,Medium
+Male,22,Khulna,3.9,5,EEE,With Family,Low,No,Always,Always,Yes,Sometimes,No,Moderately,No,8,Good,No,No,Good
+Female,21,Rajshahi,3.4,2,English,In Campus,High,No,Sometimes,Sometimes,No,Always,Yes,Moderately,No,5,Average,No,Yes,Medium
+Male,21,Sylhet,2.8,3,Architecture,With Family,Medium,Yes,Always,Always,No,Sometimes,No,Significantly,Yes,6,Average,Yes,Yes,Bad
+Male,22,Dhaka,3.5,3,CSE,With Family,High,Yes,Always,Always,No,Always,Yes,Moderately,No,7,Good,Yes,No,Good
+Female,24,Chittagong,3.8,4,EEE,In campus,Medium,No,Sometimes,Sometimes,Yes,Sometimes,No,Slightly,Yes,6,Average,No,Yes,Medium
+Male,23,Dhaka,3.2,2,BBA,With Family,Low,No,Never,Never,Yes,Never,Yes,Significantly,No,8,Good,Yes,No,Good
+Female,25,Dhaka,2.9,3,Law,In campus,High,Yes,Always,Sometimes,No,Always,No,Moderately,Yes,5,Poor,Yes,Yes,Bad
+Male,21,Dhaka,3.7,5,ECE,With Family,Medium,No,Sometimes,Sometimes,Yes,Sometimes,No,Slightly,No,7,Good,No,No,Good
+Male,22,Dhaka,3.5,3,CSE,With Family,High,Yes,Always,Always,Yes,Always,Yes,Moderately,No,7,Good,Yes,No,Medium
+Female,24,Gazipur,3.8,4,EEE,In campus,Medium,No,Sometimes,Sometimes,Yes,Sometimes,No,Slightly,Yes,6,Average,No,Yes,Medium
+Male,23,Gazipur,3.2,2,BBA,With Family,Low,No,Never,Never,Yes,Never,Yes,Significantly,No,8,Good,Yes,No,Good
+Female,25,Gazipur,2.9,3,Law,In campus,High,Yes,Always,Sometimes,No,Always,No,Moderately,Yes,4,Poor,Yes,Yes,Bad
+Male,21,Gazipur,3.7,5,EEE,With Family,Medium,No,Sometimes,Sometimes,Yes,Sometimes,No,Slightly,No,7,Good,No,No,Good
+Male,21,Dhaka,3.8,4,CSE,With Family,High,Yes,Always,Sometimes,Yes,Always,Yes,Moderately,No,7,Good,Yes,No,Good
+Female,22,Chittagong,3.6,3,BBA,In campus,Medium,Yes,Sometimes,Never,Yes,Sometimes,No,Slightly,No,6,Average,Yes,No,Medium
+Male,24,Sylhet,2.9,5,Economics,With Family,Low,No,Never,Never,No,Never,Yes,Significantly,Yes,8,Good,No,No,Good
+Female,23,Rajshahi,3.2,3,Architecture,With Family,High,Yes,Always,Sometimes,No,Always,No,Moderately,No,5,Average,Yes,No,Medium
+Male,25,Khulna,3.5,4,Law,In campus,Medium,Yes,Sometimes,Sometimes,Yes,Sometimes,Yes,Slightly,No,6,Good,No,No,Medium
+Male,22,Dhaka,2.95,4,CSE,In Campus,High,Yes,Always,Always,No,Always,Yes,Moderately,No,7,Good,Yes,Yes,Bad
+Female,20,Chittagong,3.2,3,Electrical ,With Family,Medium,No,Sometimes,Sometimes,Yes,Sometimes,No,Slightly,Yes,6,Average,No,No,Medium
+Male,24,Rajshahi,3.8,5,BBA,In Campus,Low,No,Never,Never,Yes,Always,Yes,Significantly,No,8,Good,No,No,Good
+Male,22,Dhaka,2.5,4,CSE,In Campus,High,Yes,Always,Always,No,Always,Yes,Moderately,No,7,Good,Yes,Yes,Bad
+Female,20,Chittagong,3.2,3,Electrical ,With Family,Medium,No,Sometimes,Sometimes,Yes,Sometimes,No,Slightly,Yes,6,Average,No,No,Medium
+Male,24,Rajshahi,3.8,5,BBA,In Campus,Low,No,Never,Never,Yes,Always,Yes,Significantly,No,8,Good,No,No,Good
+Male,22,Dhaka,2.65,4,Pharmacy,In Campus,High,Yes,Always,Always,No,Always,Yes,Moderately,No,7,Good,Yes,Yes,Bad
+Female,20,Chittagong,3.2,3,Pharmacy,With Family,Medium,No,Sometimes,Sometimes,Yes,Sometimes,No,Slightly,Yes,6,Average,No,No,Medium
+Male,24,Rajshahi,3,5,Pharmacy,In Campus,Low,No,Never,Never,Yes,Always,Yes,Significantly,No,8,Good,No,No,Good
+Female,21,Khulna,2.7,2,Pharmacy,With Family,High,Yes,Always,Always,No,Never,Yes,Moderately,Yes,5,Poor,Yes,No,Bad
+Male,25,Sylhet,2.71,4,Pharmacy,In Campus,Medium,No,Sometimes,Sometimes,Yes,Sometimes,No,Slightly,No,7,Good,No,No,Medium
+Male,24,Mymensingh,2.64,4,CSE,With Family,High,No,Always,Sometimes,No,Never,Yes,Significantly,No,4,Poor,Yes,Yes,Bad
+Female,21,Mymensingh,3,5,English,With Family,Medium,Yes,Sometimes,Always,Yes,Sometimes,Yes,Moderately,No,7,Good,No,No,Medium
+Male,21,Mymensingh,2.62,5,Pharmacy,With Family,High,No,Always,Always,Yes,Sometimes,Yes,Moderately,No,5,Average,No,Yes,Bad
+Female,26,Dhaka,3.27,5,Pharmacy,In campus,Medium,No,Always,Sometimes,Yes,Always,No,Moderately,No,8,Good,No,No,Good
+Male,19,Gazipur,3.02,4,CSE,In Campus,High,No,Sometimes,Sometimes,No,Always,Yes,Moderately,No,6,Average,No,No,Good
+Male,20,Dhaka,2.75,3,CSE,With Family,High,Yes,Always,Always,No,Sometimes,No,Significantly,No,4,poor,Yes,No,Bad
+Female,21,Dhaka,3.8,5,Pharmacy,With Family,Medium,No,Sometimes,Sometimes,Yes,Always,Yes,Slightly,No,7,Good,No,No,Good
+Female,22,Mymensingh,2.5,3,Pharmacy,With Family,High,No,Sometimes,Sometimes,No,Sometimes,No,Significantly,No,5,Average,Yes,Yes,Medium
+Male,23,Gazipur,2.93,4,EEE,In Campus,High,No,Always,Always,No,Never,No,Significantly,Yes,8,Good,No,No,Bad
+Male,24,Dhaka,3.5,4,EEE,In Campus,High,Yes,Always,Always,Yes,Always,Yes,Significantly,No,4,poor,Yes,No,Good
+Male,23,Dhaka,2.5,4,Pharmacy,In campus,High,Yes,Never,Sometimes,No,Always,Yes,Slightly,No,2,Poor,Yes,No,Bad
+Male,24,Chittagong,2.64,4,CSE,With Family,High,No,Always,Sometimes,No,Never,Yes,Moderately,No,4,Poor,No,Yes,Bad
+Female,21,Mymensingh,3.04,5,English,With Family,Medium,Yes,Always,Always,Yes,Sometimes,Yes,Moderately,No,7,Good,No,No,Medium
+Male,21,Mymensingh,3.87,3,Law,In campus,Low,Yes,Never,Never,Yes,Sometimes,Yes,Slightly,No,3,Poor,No,No,Good
+Female,26,Mymensingh,3,3,Law,With Family,Medium,No,Sometimes,Sometimes,Yes,Sometimes,Yes,Slightly,No,4,Poor,No,No,Medium
+Female,24,Mymensingh,2.55,4,Law,With Family,Medium,Yes,Always,Always,No,Sometimes,No,Moderately,No,4,Poor,No,Yes,Bad
+Male,24,Narayanganj,3.25,3,Law,In campus,High,No,Never,Always,Yes,Never,No,Moderately,No,8,Good,No,No,Good
+Male,19,Dhaka,3.08,5,Law,In campus,Medium,No,Never,Always,Yes,Never,No,Moderately,No,6,Average,Yes,No,Medium
+Male,25,Mymensingh,3.34,3,Pharmacy,With Family,Medium,Yes,Always,Sometimes,No,Sometimes,No,Slightly,No,6,Average,No,No,Good
+Female,22,Comilla,3.98,3,Law,With Family,High,Yes,Always,Sometimes,Yes,Never,Yes,Slightly,Yes,7,Good,Yes,Yes,Bad
+Female,24,Chittagong,2.96,2,BBA,In campus,Low,Yes,Always,Never,Yes,Always,Yes,Moderately,No,5,Average,Yes,No,Medium
+Male,21,Khulna,3.5,4,EEE,With Family,Medium,No,Sometimes,Sometimes,Yes,Always,Yes,Slightly,No,7,Good,No,No,Good
+Male,23,Gazipur,2.5,3,CSE,With Family,High,No,Always,Always,No,Sometimes,No,Moderately,No,3,Poor,Yes,No,Bad
+Male,22,Dhaka,3,3,Pharmacy,With Family,Medium,Yes,Sometimes,Never,No,Never,No,Significantly,No,7,Good,Yes,No,Medium
+Female,23,Dhaka,3.46,4,Pharmacy ,with family ,medium,Yes,Always ,Always ,No,Never,Yes,Significantly,No,6,Average,No,No,Medium
+Female ,22,Gazipur ,3.08,3,BBA,In Campus ,High,No,Always ,Sometimes ,Yes,sometimes ,Yes,slightly,Yes,8,Good,Yes,No,Bad
+Male,23,Khulna,2.77,3,CSE,With Family ,High ,Yes,Always ,Never ,No,Sometimes ,No,Moderately ,Yes,5,Average ,Yes,Yes,Bad
+Male,23,Comilla,2.68,4,Law,With Family ,Medium ,Yes,Sometimes ,Sometimes ,No,Never ,No,Slightly ,Yes,6,Average ,Yes,Yes,Bad
+Female ,24,Gazipur ,2.94,4,Pharmacy ,In Campus ,High,Yes,Always ,Always ,Yes,Never ,Yes,Significantly ,No,7,Average ,Yes,No,Medium 
+Male,23,Dhaka,2.56,3,NFE,In Campus ,Medium ,No,Always ,Never,No,Sometimes ,No,Moderately ,Yes,6,Average ,Yes,No,Medium 
+Female,24,Dhaka,3.8,4,Civil,In campus,Medium,No,Never,Never,Yes,Never,Yes,Moderately,Yes,7,Good,Yes,No,Medium
+Female,26,Gazipur,3.7,4,Accounting,With Family,High,Yes,Sometimes,Sometimes,Yes,Sometimes,Yes,Significantly,No,8,Good,Yes,No,Medium
+Male,23,Gazipur,2.96,4,CSE,With Family,Low,Yes,Never,Sometimes,Yes,Never,Yes,Slightly,No,7,Good,No,No,Good
+Male,22,Gazipur,2.53,3,Economics,In campus,High,No,Never,Always,Yes,Always,Yes,Moderately,Yes,6,Average,No,No,Medium
+Male,23,Mymensingh,3.81,2,Law,With Family,High,Yes,Always,Always,No,Sometimes,Yes,Moderately,No,7,Good,No,No,Bad
+Male,24,Mymensingh,3.72,4,Civil,With Family,Low,No,Never,Never,Yes,Always,No,Slightly,Yes,5,Average,Yes,No,Medium
+Male,20,Mymensingh,3.3,2,Civil,In campus,Low,Yes,Sometimes,Always,Yes,Never,Yes,Moderately,Yes,6,Good,Yes,Yes,Bad
+Male,23,Mymensingh,3.3,4,Civil,In campus,Low,No,Sometimes,Sometimes,No,Always,No,Significantly,No,4,Poor,No,No,Good
+Male,23,Khulna,3.63,4,CSE,With Family,Medium,Yes,Never,Never,No,Sometimes,Yes,Slightly,No,8,Good,No,No,Medium
+Female,25,Rajshahi,3.82,4,CSE,With Family,Medium,No,Sometimes,Sometimes,Yes,Sometimes,Yes,Slightly,Yes,6,Average,No,No,Good
+Male,23,Comilla,3.78,2,CSE,In campus,High,No,Sometimes,Never,No,Never,No,Slightly,Yes,7,Good,No,No,Good
+Male,21,Chittagong,2.96,4,Civil,With Family,Low,No,Always,Always,No,Sometimes,Yes,Significantly,Yes,8,Good,No,No,Medium
+Female,23,Rangpur,2.5,4,CSE,With Family,High,Yes,Always,Sometimes,No,Sometimes,No,Slightly,Yes,4,Poor,Yes,Yes,Bad
+Male,22,Khulna,3.9,4,CSE,In campus,Low,No,Never,Never,Yes,Sometimes,Yes,Slightly,No,7,Good,No,No,Good
+Female,19,Khulna,2.5,4,CSE,In campus,Low,Yes,Sometimes,Always,No,Sometimes,No,Moderately,No,4,Poor,No,No,Medium
+Female,23,Chittagong,3.45,3,CSE,With Family,Medium,Yes,Never,Sometimes,No,Never,Yes,Slightly,No,6,Average,No,No,Good
+Male,19,Rajshahi,3.2,3,Civil,In campus,Medium,No,Never,Always,Yes,Always,Yes,Moderately,No,8,Good,No,No,Good
+Male,21,Dhaka,2.51,4,Economics,With Family,High,No,Always,Sometimes,No,Sometimes,No,Moderately,Yes,3,Poor,No,No,Medium
+Male,19,Chittagong,3.8,2,Accounting,With Family,High,Yes,Never,Sometimes,No,Sometimes,No,Slightly,Yes,7,Good,No,Yes,Good
+Female,21,Dhaka,3.51,3,Accounting,In campus,Low,Yes,Always,Sometimes,Yes,Sometimes,Yes,Slightly,No,7,Good,No,No,Medium
+Male,21,Dhaka,2.45,2,Accounting,In campus,High,No,Sometimes,Always,No,Sometimes,Yes,Significantly,No,5,Average,No,Yes,Bad
+Female,23,Mymensingh,3.95,4,BBA,With Family ,Medium ,No,Sometimes,Never,Yes,Always,Yes,Slightly ,No,7,Good,No,No,Good
+Female ,22,Mymensingh,3.11,4,BBA,With Family ,Medium ,No,Sometimes ,Always ,Yes,Sometimes ,Yes,Slightly ,No,6,Average ,No,No,Medium 
+Female ,22,Narayanganj ,3,5,English ,In Campus ,High,Yes,Always ,Sometimes ,Yes,Never,Yes,Significantly ,Yes,7,Good,No,No,Medium 
+Male ,23,Dhaka,3.26,4,Pharmacy ,With Family ,High,Yes,Sometimes ,Never,Yes,Sometimes ,Yes ,Slightly ,No,5,Average ,Yes,No,Medium 
+Male,24,Gazipur ,3.08,3,Pharmacy ,With Family ,Medium ,Yes,Always ,Sometimes,No,Never ,Yes,Moderately ,Yes,6,Average ,No,No,Good
+Male,23,Dhaka,3.15,4,NFE,In Campus ,High,No,Sometimes ,Sometimes ,Yes,Sometimes ,Yes,Slightly ,No,7,Good,Yes,Yes ,Medium 
+Female ,25,Dhaka,2.89,4,English ,With Family ,High,Yes,Always ,Never,No,Sometimes ,No,Significantly ,Yes,5,Average ,Yes,Yes,Bad
+Male,24,Mymensingh,2.93,3,Law,In Campus ,High,Yes,Always ,Sometimes ,No,Never,No,Slightly ,Yes,6,Average ,Yes,No,Bad
+Female ,23,Chittagong ,3.29,4,CSE,With Family ,Medium ,Yes,Always ,Never,Yes,Sometimes ,Yes,Significantly ,No,8,Good ,No,No,Good 
+Male,22,Gazipur ,2.85,3,CSE,In Campus ,High,Yes,Always ,Sometimes ,No,Sometimes ,No,Slightly ,Yes,6,Average ,Yes,Yes,Bad
+Male,23,Dhaka,2.84,3,Pharmacy ,With Family ,High,Yes,Always ,Sometimes ,No,Never,No,Slightly ,No,7,Good,Yes,No,Medium 
+Female ,25,Narayanganj ,2.94,2,English ,In Campus ,High,No,Sometimes,Never,No,Sometimes ,No,Significantly ,Yes,5,Average ,Yes,No,Medium 
+Male,26,Dhaka,3.19,4,English ,With Family ,Medium ,Yes,Sometimes ,Sometimes ,Yes,Sometimes ,Yes,Slightly ,No,6,Average ,No,No,Medium 
+Male ,24,Gazipur ,3.1,3,CSE,With Family ,High,Yes,Always ,Sometimes ,Yes,Never ,Yes,Slightly ,Yes,6,Average ,Yes,No,Good 
+Female ,23,Gazipur ,2.99,3,Pharmacy ,With Family ,High ,Yes,Always ,Never,No,Never ,No,Significantly ,Yes,7,Average ,Yes,Yes,Bad
+Female ,23,Dhaka,3,2,NFE,In Campus ,High,Yes,Sometimes ,Always ,Yes ,Sometimes ,Yes ,Moderately ,Yes,5,Average ,Yes,No,Medium 
+Male,24,Narayanganj ,3.11,3,Law,With Family ,Medium ,No,Sometimes ,Always ,Yes,Never,Yes,Significantly ,No,6,Average ,Yes,No,Medium 
+Female,24,Chittagong ,3.29,4,BBA,In Campus ,High ,Yes,Always ,Sometimes ,Yes,Sometimes ,Yes,Slightly ,Yes,5,Average ,Yes,No,Medium 
+Male,25,Mymensingh,3.44,4,Pharmacy ,In Campus ,High,Yes,Always ,Always ,Yes,Always ,Yes,slightly ,Yes,7,Good,No,No,Good 
+Male,24,Sylhet ,3.09,3,English ,With Family ,Medium ,No,Always,Sometimes ,Yes,Never,Yes,Moderately ,No,6,Average ,Yes,No,Medium 
+Female ,23,Mymensingh,2.93,3,BBA,With Family ,High ,Yes,Sometimes ,Always ,No,Never ,No,Slightly ,Yes,5,Average ,Yes,Yes,Bad
+Female ,22,Jossor ,3,3,CSE,In Campus ,High,Yes,Always ,Always ,No,Sometimes ,No,Significantly ,Yes,4,Poor ,Yes,Yes,Bad
+Female ,23,Sylhet ,3.22,4,Pharmacy ,With Family ,High,Yes,Always ,Always ,Yes,Never,Yes,Moderately ,Yes,4,Poor,Yes,No,Medium 
+Male,21,Gazipur ,3.07,3,Law,With Family ,High,Yes,Sometimes ,Sometimes ,Yes ,Sometimes ,Yes,Slightly ,Yes,4,Poor,No,No,Medium 
+Female ,22,Rajshahi ,2.88,3,EEE,With Family ,Medium ,No,Sometimes ,Always ,No,Never ,Yes,Slightly ,Yes,5,Average ,No,No,Medium 
+Male ,24,Narayanganj ,3.3,4,NFE,In Campus ,Medium ,Yes ,Always ,Sometimes ,Yes,Sometimes ,Yes,Significantly ,No,5,Average ,Yes,No,Good 
+Female ,23,Dhaka,2.97,2,EEE,In Campus ,High,No,Sometimes ,Sometimes ,No,Always ,No,Moderately ,Yes,8,Good ,No,No,Medium 
+Male ,25,Rajshahi ,2.99,3,English ,With Family ,High ,Yes ,Always ,Always ,No,Sometimes ,No,Slightly ,No ,6,Average ,Yes,No,Medium 
+Male ,23,Mymensingh,3.22,4,CSE,In Campus ,Medium ,No,Sometimes ,Always ,Yes,Never ,Yes,Significantly ,Yes,5,Average ,Yes,Yes,Medium 
+Female ,21,Gazipur ,2.6,2,English ,With Family ,High,Yes,Always ,Sometimes ,No,Sometimes ,No,Moderately ,Yes,7,Good,No,No,Good
+Male ,24,Khulna ,3.19,3,EEE,With Family ,Medium ,Yes ,Sometimes ,Always ,Yes,Sometimes ,Yes,Slightly ,No,6,Average ,Yes,No,Medium 
+Male,23,Rajshahi ,2.67,3,Pharmacy ,With Family ,Medium ,No,Sometimes ,Always ,No,Never ,No,Significantly ,Yes,7,Average ,Yes,No,Good 
+Female ,22,Chittagong ,3.33,4,Civil,In Campus ,High,Yes,Always ,Always ,Yes,Always ,Yes,Significantly ,Yes,8,Good,Yes,No,Medium 
+Female ,23,Jossor ,2.77,3,Architecture ,In Campus ,High,Yes,Always ,Sometimes ,No,Sometimes ,No,Slightly ,No,8,Good ,Yes,No,Medium 
+Male,25,Mymensingh,3.15,2,EEE,With Family ,High ,Yes,Never ,Sometimes ,Yes ,Always ,Yes ,Significantly ,Yes ,4,Poor,No,No,Bad
+Female ,21,Sylhet ,3,3,NFE,With Family ,Medium ,No,Always ,Always ,Yes,Sometimes ,Yes,Moderately ,No,5,Average ,Yes,Yes,Medium 
+Male ,23,Gazipur ,2.99,2,CSE,In Campus ,High,Yes,Sometimes ,Always ,No,Never,No,Slightly ,No,4,Poor,Yes,No,Bad
+Female ,25,khulna,3,3,Architecture ,With Family ,High ,Yes,Never,Always ,Yes,Never,Yes ,Moderately ,Yes,5,Average ,No,No,Medium 
+Male ,25,Rajshahi ,3,4,Civil ,With Family ,Medium ,No,Never ,Sometimes ,Yes,Sometimes ,Yes,Moderately ,No,8,Good,Yes,No,Good
+Male,25,Rajshahi ,2.87,3,Civil ,In Campus ,Medium ,Yes,Sometimes ,Always ,No,Never,No,Slightly ,Yes,4,Poor,Yes,Yes,Bad
+Female ,24,Dhaka,2.68,2,Architecture ,With Family ,High,Yes,Never,Always ,No,Always ,No,Slightly ,No,5,Average ,No ,No,Medium 
+Female ,25,Syhlet ,3.4,3,Architecture ,In Campus ,High ,No,Never ,Sometimes,Yes,Sometimes ,Yes,Significantly ,No ,8,Good ,Yes,No,Good 
+Male,23,Jossor ,3.25,3,EEE,In Campus ,Medium ,Yes,Sometimes ,Always ,Yes,Never ,Yes,Moderately ,No,6,Average ,No,No,Medium 
+Male ,25,Mymensingh,2.97,2,EEE,With Family ,High,Yes,Never ,Sometimes ,No,Always,No,Moderately ,Yes,4,Poor,No,Yes,Bad
+Male,23,Narayanganj ,3.12,3,Pharmacy ,In Campus ,Medium ,Yes,Never ,Always ,Yes,Sometimes ,Yes,Significantly ,No,4,Poor,Yes,No,Medium 
+Female ,22,Gazipur ,3.17,3,Civil ,In Campus ,High,No,Sometimes ,Sometimes ,No,Never ,Yes,Significantly ,No,8,Good,Yes,No,Medium 
+Female ,22,Dhaka ,3.34,4,NFE,With Family ,medium ,Yes,Sometimes ,Always ,Yes,Always ,Yes ,Slightly ,Yes,6,Average ,No,No,Good
+Male ,24,Jossor ,3.43,2,Architecture ,With Family ,High,Yes,Always ,Sometimes ,Yes,Sometimes ,Yes,Moderately ,Yes,7,Good,Yes,No,Good
+Female ,25,Khulna,3.21,3,Architecture ,In Campus ,High,No,Always ,Sometimes ,Yes,Sometimes ,Yes,Moderately ,No,4,Poor,No,No,Medium 
+Male ,25,Tangail ,3,3,EEE,With Family ,Medium ,Yes,Never,Always ,No,Never,No,Significantly ,No,4,Poor,Yes,Yes,Bad
+Male ,24,Tangail ,3,3,CSE,In Campus ,Medium ,Yes,Always ,Sometimes ,Yes,Always ,Yes,Slightly ,Yes,5,Average ,Yes,No,Medium 
+Female ,24,Barisal,2.87,2,Medicine ,In Campus ,High ,No,Sometimes ,Sometimes ,No,Sometimes ,Yes,Moderately ,Yes,8,Good ,Yes,Yes,Good 
+Female ,23,Chittagong ,3.04,3,Pharmacy ,With Family ,Medium ,Yes,Sometimes ,Always ,Yes,Sometimes ,Yes,Significantly ,No,8,Good ,No,No,Medium 
+Male,22,Chittagong ,3.01,3,NFE,With Family ,High,No,Always ,Sometimes ,Yes,Always ,No,Slightly ,Yes,4,Poor,Yes,No,Medium 
+Female ,21,Gazipur ,3.5,4,Architecture ,In Campus ,Medium ,Yes,Never,Always ,Yes,Never ,Yes,Moderately ,No,5,Average ,Yes,No,Good
+Male,24,Jossor ,3.34,4,Law,In Campus ,High,Yes,Sometimes ,Sometimes ,Yes,Always ,Yes,Slightly ,Yes,6,Average ,Yes,No,Medium 
+Female ,23,Sylhet ,3.11,3,English ,With Family ,High,No,Sometimes ,Sometimes ,Yes,Sometimes ,Yes ,Significantly ,No,8,Good,No,Yes,Bad
+Male ,22,Mymensingh,2.5,3,Pharmacy ,With Family ,High ,Yes,Never,Always ,No,Never,No,Significantly ,No,4,Poor,No,No,Good
+Female,24,Tangail ,2.56,2,CSE,In Campus ,Medium ,Yes,Sometimes ,Sometimes ,No,Sometimes ,No,Slightly ,No,5,Average ,Yes,No,Medium 
+Male,23,Narayanganj ,2.7,2,NFE,In Campus ,High,No,Always ,Always ,No,Always ,No,Moderately ,Yes,6,Average ,Yes,No,Medium 
+Male,22,Rajshahi ,2.99,3,EEE,With Family ,Medium ,Yes,Always ,Sometimes ,No,Never ,No,Moderately ,No,8,Good,Yes,Yes,Bad
+Female ,24,Rajshahi ,3.33,4,Architecture ,With Family ,High,Yes,Sometimes ,Always ,Yes,Sometimes ,Yes,Slightly ,Yes,7,Good,No,Yes,Badd
+Female ,23,Sylhet ,3.35,3,Medicine ,In Campus ,High ,Yes,Always ,Sometimes ,Yes,Never,Yes,Significantly ,Yes,7,Good,Yes,No,Good 
+Male,22,Dhaka ,3.45,3,Law,In Campus ,High ,No,Never,Always ,Yes,Sometimes ,Yes,Significantly ,No,5,Average ,Yes,No,Medium 
+Male,24,Tangail ,3.12,2,English ,With Family ,Medium ,Yes,Sometimes ,Always ,Yes,Always ,Yes,Slightly ,Yes,4,Poor,No,No,Medium 
+Female ,24,Barisal ,3,3,English ,With Family ,Medium ,Yes,Never,Always ,Yes,Always ,Yes,Moderately ,No,6,Average ,Yes,Yes,Medium 
+Male,23,Barisal,3,3,CSE,In Campus ,High,No,Always ,Sometimes ,Yes,Sometimes ,Yes,Slightly ,Yes,8,Good,Yes ,Yes,Bad
+Female,23,Tangail,3,3,Pharmacy ,With Family ,High,Yes,Never,Always ,Yes,Never,Yes,Significantly ,Yea,7,Good,No,No,Good
+Female,21,Mymensingh,2.9,4,Pharmacy,With Family,High,Yes,Never,Never,No,Always,Yes,Moderately,Yes,3,Poor,Yes,Yes,Medium
+Female ,22,Tangail ,3.21,3,EEE,In Campus ,Low,No,Always ,Sometimes ,Yes ,Sometimes ,Yes,Slightly ,Yes,4,Poor,Yes,Yes,Bad
+Male,24,Chittagong ,3.4,2,Medicine ,In Campus ,High,Yes,Never ,Sometimes ,No,Always ,Yes,Significantly ,No,6,Average ,No,No,Medium 
+Female ,21,Jossor ,3,3,Civil ,With Family ,High,Yes,Sometimes ,Always ,Yes,Sometimes ,Yes,Moderately ,No,6,Average ,Yes,No,Good 
+Male,23,Barisal ,2.98,2,Law,With Family ,Low,No,Sometimes ,Always ,Yes,Always ,No,Slightly ,No,8,Good,Yes,No,Medium 
+Female ,23,Barisal ,3,4,Architecture ,With Family ,High,Yes,Always ,Sometimes ,Yes,Sometimes ,Yes,Significantly ,Yes,6,Average ,Yes,No,Medium 
+Female ,23,Chittagong ,3,3,Architecture,with Family ,High,Yes,Sometimes ,Always ,Yes,Never,Yes,Slightly ,Yes,4,poor ,Yes, No,Medium 
+Male ,24,Chittagong ,3,4,EEE,With Family ,Low,Yes,Sometimes ,Always ,Yes,Never ,No,Slightly ,Yes,5,Average ,Yes,No,Medium
+Female ,22,Barisal ,3.21,2,EEE,With Family ,Low,Yes,Sometimes ,Sometimes ,No,Never ,Yes ,Moderately ,No,8,Good,No,No,Bad
+Male,21,Barisal ,3.44,3,Civil ,In Campus ,Medium ,Yes,Sometimes ,Sometimes ,Yes,Sometimes ,Yes,Moderately ,Yes ,7,Good,Yes,No,Good 
+Male ,24,Tangail ,3.31,3,Law,In Campus ,High,Yes,Sometimes ,Always ,Yes,Sometimes ,Yes ,Significantly ,Yes ,6,Average ,No,No,Medium 
+Female ,22,Dinajpur,3.35,3,Medicine ,In Campus ,High,No,Always ,Always ,No,Never,Yes,Significantly ,No,5,Average ,Yes,No,Medium 
+Male,23,Dinajpur,3.39,3,English ,With Family ,High,Yes,Always ,Always ,Yes,Always ,Yes,Slightly ,Yes,4,Poor,Yes,No,Medium
+Male,20,Comilla,2.96,5,Civil ,With Family,Medium ,Yes,Sometimes,Sometimes,No,Always,Yes,Slightly,Yes,8,Good,Yes,No,Medium
+Male,19,Narsingdi,2.72,5,CSE,With Family,High,No,Always,Always,Yes,Sometimes,No,Significantly,No,7,Good,Yes,No,Medium
+Female,26,Barisal,3.2,5,BBA,With Family,Low,No,Sometimes,Sometimes,Yes,Never,No,Significantly,Yes,4,Poor,No,Yes,Bad
+Male,25,Dhaka,3.78,2,Law,With Family,High,No,Never,Sometimes,No,Sometimes,Yes,Significantly,Yes,7,Good,No,No,Good
+Male,24,Sylhet,3.55,3,CSE,With Family,Low,Yes,Sometimes,Never,Yes,Always,Yes,Significantly,Yes,2,Poor,Yes,Yes,Bad
+Female,24,Comilla,2.54,4,Law,With Family,Low,No,Always,Sometimes,No,Sometimes,No,Moderately,No,8,Good,No,No,Good
+Female,25,Khulna,2.94,2,Law,With Family,Medium,No,Sometimes,Sometimes,No,Never,No,Significantly,Yes,4,Poor,Yes,Yes,Bad
+Male,22,Comilla,3.01,5,Electrical ,In campus,High,Yes,Always,Always,No,Always,No,Moderately,Yes,3,Poor,Yes,No,Good
+Female,25,Chittagong,3.86,3,Civil,With Family,Low,No,Never,Always,No,Always,No,Slightly,No,7,Good,No,No,Medium
+Female,25,Barisal,3.77,4,BBA,With Family,High,Yes,Sometimes,Always,No,Sometimes,No,Slightly,No,8,Average,No,No,Good
+Male,19,Chittagong,3.46,3,Civil ,In campus,Medium,No,Always,Always,No,Always,Yes,Slightly,No,5,Average,Yes,Yes,Poor
+Female,23,Rajshahi,3.96,3,CSE,With Family,Medium,Yes,Never,Always,Yes,Sometimes,No,Significantly,Yes,8,Poor,No,No,Good
+Female,24,Chittagong,3.92,3,CSE,In campus,Medium,No,Always,Sometimes,No,Never,Yes,Significantly,No,2,Average,No,No,Medium
+Male,23,Barisal,3.23,2,Pharmacy,In campus,Medium,No,Never,Always,No,Always,Yes,Significantly,No,3,Average,Yes,Yes,Bad
+Female,19,Comilla,3.73,3,Pharmacy,With Family,Medium,Yes,Always,Always,Yes,Always,Yes,Moderately,Yes,5,Good,No,No,Medium
+Male,19,Rajshahi,3.42,5,Law,With Family,High,No,Sometimes,Never,No,Always,No,Slightly,No,5,Poor,No,No,Medium
+Male,23,Dinajpur,3.17,2,CSE,With Family ,High,Yes,Always ,Sometimes ,Yes,Always ,Yes,Slightly ,No,4,Poor,Yes,No,Good
+Female ,22,Dhaka,3,3,Civil,In Campus ,Low,Yes,Sometimes ,Sometimes ,Yes,Never,Yes,Significantly ,No,5,Average ,No,No,Medium 
+Male,21,Syhlet ,2.8,2,Architecture ,In Campus ,Low,Yes,Never,Sometimes,Yes,Always,Yes,Significantly ,Yes,5,Average ,Yes,No,Medium 
+Female ,24,Syhlet ,2.98,3,Law,With Family ,High,Yes,Never ,Always,No,Always ,Yes,Significantly,No,4,Poor,Yes,No,Medium
+Male ,23,Dinajpur ,2.57,4,English ,With Family ,Medium,Yes,Sometimes ,Always,Yes,Always,Yes,Slightly,Yes,6,Average,No,No,Good 
+Male,22,Dinajpur ,2.68,3,English ,In Campus ,High,No,Sometimes,Sometimes ,Yes,Sometimes,Yes,Slightly ,No,7,Good ,Yes,Yes,Bad
+Female ,21,Dinajpur ,2.94,4,Civil ,In Campus,High,Yes,Always ,Sometimes,Yes,Sometimes ,Yes,Significantly ,Yes,8,Good ,No,No,Medium 
+Female ,22,Chittagong ,2.58,2,Medicine ,With Family ,High,Yes,Always ,Sometimes,No,Sometimes ,No,Moderately ,No,8,Good ,Yes,No,Medium
+Male ,23,Rajshahi ,2.87,3,CSE,With Family ,Medium ,Yes,Never ,Always ,Yes,Sometimes,Yes,Moderately ,Yes,6,Average ,Yes,Yes,Bad
+Male ,21,Rajshahi ,2.99,4,EEE,In Campus ,Medium ,No,Sometimes,Always,Yes,Always,Yes,Significantly ,No,8,Good,Yes,No,Good
+Female ,23,Comilla ,3,2,Pharmacy ,In Campus ,Low,Yes,Always ,Always ,Yes,Always ,Yes,Slightly ,Yes,4,Poor,Yes,No,Medium 
+Female ,24,Comilla,2.89,3,NFE,With Family ,Medium ,Yes,Always,Always ,Yes,Always ,No,Slightly ,No,8,Good,Yes,No,Medium
+Female ,24,Jossor ,3.12,4,EEE,With Family ,High,Yes,Never,Sometimes ,Yes,Always ,Yes,Moderately ,Yes,6,Average ,No,No,Medium 
+Male,21,Comilla ,3.25,2,Architecture ,In Campus ,High,Yes,Sometimes ,Sometimes,Yes,Sometimes ,Yes,Slightly ,No,5,Average ,No,No,Medium 
+Female,20,Comilla,3.3,4,Civil,With Family,Low,No,Sometimes,Sometimes,No,Always,No,Significantly,No,4,Poor,No,No,Good
+Male,19,Comilla,3.63,4,CSE,With Family,Medium,Yes,Never,Never,No,Sometimes,Yes,Slightly,No,8,Good,No,No,Medium
+Female,26,Barisal,3.82,4,CSE,With Family,Medium,No,Sometimes,Sometimes,Yes,Sometimes,Yes,Slightly,Yes,6,Average,No,No,Good
+Male,25,Dhaka,3.78,2,CSE,With Family,High,No,Sometimes,Never,No,Never,No,Slightly,Yes,7,Good,No,No,Good
+Male,24,Sylhet,2.96,4,Civil,With Family,Low,No,Always,Always,No,Sometimes,Yes,Significantly,Yes,8,Good,No,No,Medium
+Female,24,Comilla,2.5,4,CSE,With Family,High,Yes,Always,Sometimes,No,Sometimes,No,Slightly,Yes,4,Poor,Yes,Yes,Bad
+Female,25,Khulna,3.9,4,CSE,With Family,Low,No,Never,Never,Yes,Sometimes,Yes,Slightly,No,7,Good,No,No,Good
+Male,22,Comilla,2.5,4,CSE,In campus,Low,Yes,Sometimes,Always,No,Sometimes,No,Moderately,No,4,Poor,No,No,Medium
+Female,25,Chittagong,3.45,3,CSE,With Family,Medium,Yes,Never,Sometimes,No,Never,Yes,Slightly,No,6,Average,No,No,Good
+Female,25,Barisal,3.2,3,Civil,With Family,Medium,No,Never,Always,Yes,Always,Yes,Moderately,No,8,Good,No,No,Good
+Male,19,Chittagong,2.51,4,Economics,In campus,High,No,Always,Sometimes,No,Sometimes,No,Moderately,Yes,3,Poor,No,No,Medium
+Female,23,Rajshahi,3.8,2,Accounting,With Family,High,Yes,Never,Sometimes,No,Sometimes,No,Slightly,Yes,7,Good,No,Yes,Good
+Female,24,Chittagong,3.51,3,Accounting,In campus,Low,Yes,Always,Sometimes,Yes,Sometimes,Yes,Slightly,No,7,Good,No,No,Medium
+Male,23,Barisal,2.45,2,Accounting,In campus,High,No,Sometimes,Always,No,Sometimes,Yes,Significantly,No,5,Average,No,Yes,Bad
+Female,19,Comilla,3.95,4,BBA,With Family,Medium ,No,Sometimes,Never,Yes,Always,Yes,Slightly ,No,7,Good,No,No,Good
+Male,19,Rajshahi,3.11,4,BBA,With Family,Medium ,No,Sometimes ,Always ,Yes,Sometimes ,Yes,Slightly ,No,6,Average ,No,No,Medium 
+Male,22,Narsingdi,3,5,English ,In campus,High,Yes,Always ,Sometimes ,Yes,Never,Yes,Significantly ,Yes,7,Good,No,No,Medium 
+Female,25,Sylhet,3.26,4,Pharmacy ,In campus,High,Yes,Sometimes ,Never,Yes,Sometimes ,Yes ,Slightly ,No,5,Average ,Yes,No,Medium 
+Female,25,Khulna,3.08,3,Pharmacy ,With Family,Medium ,Yes,Always ,Sometimes,No,Never ,Yes,Moderately ,Yes,6,Average ,No,No,Good
+Male,22,Mymensingh,3.15,4,NFE,In campus,High,No,Sometimes ,Sometimes ,Yes,Sometimes ,Yes,Slightly ,No,7,Good,Yes,Yes ,Medium 
+Male,24,Barisal,2.89,4,English ,In campus,High,Yes,Always ,Never,No,Sometimes ,No,Significantly ,Yes,5,Average ,Yes,Yes,Bad
+Female,26,Dhaka,2.93,3,Law,In campus,High,Yes,Always ,Sometimes ,No,Never,No,Slightly ,Yes,6,Average ,Yes,No,Bad
+Male,22,Sylhet,3.29,4,CSE,In campus,Medium ,Yes,Always ,Never,Yes,Sometimes ,Yes,Significantly ,No,8,Good ,No,No,Good 
+Male,24,Rangpur,2.85,3,CSE,In campus,High,Yes,Always ,Sometimes ,No,Sometimes ,No,Slightly ,Yes,6,Average ,Yes,Yes,Bad
+Male,25,Mymensingh,2.84,3,Pharmacy ,With Family,High,Yes,Always ,Sometimes ,No,Never,No,Slightly ,No,7,Good,Yes,No,Medium 
+Male,24,Rajshahi,2.94,2,English ,With Family,High,No,Sometimes,Never,No,Sometimes ,No,Significantly ,Yes,5,Average ,Yes,No,Medium 
+Male,26,Dhaka,3.19,4,English ,With Family ,Medium ,Yes,Sometimes ,Sometimes ,Yes,Sometimes ,Yes,Slightly ,No,6,Average ,No,No,Medium 
+Male ,24,Gazipur ,3.1,3,CSE,With Family ,High,Yes,Always ,Sometimes ,Yes,Never ,Yes,Slightly ,Yes,6,Average ,Yes,No,Good 
+Female ,23,Gazipur ,2.99,3,Pharmacy ,With Family ,High ,Yes,Always ,Never,No,Never ,No,Significantly ,Yes,7,Average ,Yes,Yes,Bad
+Female ,23,Dhaka,3,2,NFE,In Campus ,High,Yes,Sometimes ,Always ,Yes ,Sometimes ,Yes ,Moderately ,Yes,5,Average ,Yes,No,Medium 
+Male,24,Narayanganj ,3.11,3,Law,With Family ,Medium ,No,Sometimes ,Always ,Yes,Never,Yes,Significantly ,No,6,Average ,Yes,No,Medium 
+Female,24,Chittagong ,3.29,4,BBA,In Campus ,High ,Yes,Always ,Sometimes ,Yes,Sometimes ,Yes,Slightly ,Yes,5,Average ,Yes,No,Medium 
+Male,25,Mymensingh,3.44,4,Pharmacy ,In Campus ,High,Yes,Always ,Always ,Yes,Always ,Yes,slightly ,Yes,7,Good,No,No,Good 
+Male,24,Sylhet ,3.09,3,English ,With Family ,Medium ,No,Always,Sometimes ,Yes,Never,Yes,Moderately ,No,6,Average ,Yes,No,Medium 
+Female ,23,Mymensingh,2.93,3,BBA,With Family ,High ,Yes,Sometimes ,Always ,No,Never ,No,Slightly ,Yes,5,Average ,Yes,Yes,Bad
+Female ,22,Jossor ,3,3,CSE,In Campus ,High,Yes,Always ,Always ,No,Sometimes ,No,Significantly ,Yes,4,Poor ,Yes,Yes,Bad
+Female ,23,Sylhet ,3.22,4,Pharmacy ,With Family ,High,Yes,Always ,Always ,Yes,Never,Yes,Moderately ,Yes,4,Poor,Yes,No,Medium 
+Male,21,Gazipur ,3.07,3,Law,With Family ,High,Yes,Sometimes ,Sometimes ,Yes ,Sometimes ,Yes,Slightly ,Yes,4,Poor,No,No,Medium 
+Female ,22,Rajshahi ,2.88,3,EEE,With Family ,Medium ,No,Sometimes ,Always ,No,Never ,Yes,Slightly ,Yes,5,Average ,No,No,Medium 
+Male ,24,Narayanganj ,3.3,4,NFE,In Campus ,Medium ,Yes ,Always ,Sometimes ,Yes,Sometimes ,Yes,Significantly ,No,5,Average ,Yes,No,Good 
+Female ,23,Dhaka,2.97,2,EEE,In Campus ,High,No,Sometimes ,Sometimes ,No,Always ,No,Moderately ,Yes,8,Good ,No,No,Medium 
+Male ,25,Rajshahi ,2.99,3,English ,With Family ,High ,Yes ,Always ,Always ,No,Sometimes ,No,Slightly ,No ,6,Average ,Yes,No,Medium 
+Male ,23,Mymensingh,3.22,4,CSE,In Campus ,Medium ,No,Sometimes ,Always ,Yes,Never ,Yes,Significantly ,Yes,5,Average ,Yes,Yes,Medium 
+Female ,21,Gazipur ,2.6,2,English ,With Family ,High,Yes,Always ,Sometimes ,No,Sometimes ,No,Moderately ,Yes,7,Good,No,No,Good
+Male ,24,Khulna ,3.19,3,EEE,With Family ,Medium ,Yes ,Sometimes ,Always ,Yes,Sometimes ,Yes,Slightly ,No,6,Average ,Yes,No,Medium 
+Male,23,Rajshahi ,2.67,3,Pharmacy ,With Family ,Medium ,No,Sometimes ,Always ,No,Never ,No,Significantly ,Yes,7,Average ,Yes,No,Good 
+Female ,22,Chittagong ,3.33,4,Civil,In Campus ,High,Yes,Always ,Always ,Yes,Always ,Yes,Significantly ,Yes,8,Good,Yes,No,Medium 
+Female ,23,Jossor ,2.77,3,Architecture ,In Campus ,High,Yes,Always ,Sometimes ,No,Sometimes ,No,Slightly ,No,8,Good ,Yes,No,Medium 
+Male,25,Mymensingh,3.15,2,EEE,With Family ,High ,Yes,Never ,Sometimes ,Yes ,Always ,Yes ,Significantly ,Yes ,4,Poor,No,No,Bad
+Female ,21,Sylhet ,3,3,NFE,With Family ,Medium ,No,Always ,Always ,Yes,Sometimes ,Yes,Moderately ,No,5,Average ,Yes,Yes,Medium 
