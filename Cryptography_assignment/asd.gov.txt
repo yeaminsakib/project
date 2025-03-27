@@ -20,6 +20,7 @@ A T T E A
 M S T R I
 V I N G F
 O R E X C
+
 E L L E N
 C E W E M
 A K E A D
@@ -27,6 +28,7 @@ I F F E R
 E N C E X
 O R H E X
 A 5 D 7 5
+
 To read the hidden message, write out the rows so they form a line of text, when you put in spaces and grammar says: "Belonging to a great team, striving for excellence, we make a difference. XOR hex A5D75."
 You can also decode the message by writing it horizontally, starting a new row every 7 letters, and reading the message down the columns.
 Level 4 
