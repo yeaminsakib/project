@@ -20,10 +20,24 @@ Total_Notifications_Per_Day (More notifications may lead to higher phone usage)
 Unnecessary Columns
 The following columns do not contribute significantly to predicting stress or addiction:
 
-Unnamed: 0 (Index column, not needed)
-Timestamp (Does not help in prediction)
-Is_Student (All values are "Yes", so it's not useful)
-Gender (Could be useful for demographic studies but not necessarily predictive)
+Unnamed: 0 
+Timestamp 
+Is_Student 
+Gender 
+Unknown dataset, student stress prediction
+
+
+
+Random Forest 82.59%, Logistic Regression 80.77%, Decision Tree 74.56%
+
+
+
+
+
+
+
+
+
 
 
 

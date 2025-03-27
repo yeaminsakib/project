@@ -1,0 +1,59 @@
+Level 1
+The puzzle begins on the obverse side of the coin, which is the picture of the Queen’s profile. You will see 6 small braille markings used to represent the numbers 1 through to 6: ⠁ ⠃ ⠉ ⠙ ⠑ ⠋ centred under different letters. When laid out in numerical order, those letters spell ATBASH, which provides the clue for the type of cipher being used.
+You will need to turn the coin over to solve the remaining layers of code.
+Level 2
+To begin level 2, start with the outer ring of 75 letters. You’ll see the surface of some letters has a slightly different surface to the others. This relates to a bonus layer and will be dealt with separately. The second layer of code can be found using the entire ring of letters.
+Using the solution to level one (ATBASH), start at the ‘.’ marking and work your way clockwise around the circle. Remember, each Z represents an A, Y is B and so on. The encoded message reads:
+.MWNVGRXFOLFHRMVCVXFGRLM·URMWXOZIRGBRM7DRWGSC5WVKGS·DVZIVZFWZXRLFHRMXLMXVKGZ
+Which when deciphered looks like this:
+.WEAREAUDACIOUSINCONCEPTANDMETICULOUSINEXECUTION·FINDCLARITYIN7WIDTHX5DEPTH
+When you put in spaces and grammar, it says: "We are audacious in concept, and meticulous in execution. Find clarity in 7 width x 5 depth."
+Level 3
+Level 3 uses the inner ring of 70 letters on the coin’s reverse. This ring again has two puzzle components, with the textured letters part of a bonus level that will be dealt with separately.
+Using the clue provided in level 2 (Find clarity in 7 width x 5 depth), you will see the letters are encoded using a transposition cipher that uses a 7x5 grid.
+To decode the message, you will need to read the letters clockwise and write them down in 5 columns, starting a new column every 7 letters. You should get something that looks like this:
+BGOAMVOEIATSIRLNGTTNEOGRERGXNTEAIFCECAIEOALEKFNR5LWEFCHDEEAEEE7NMDRXX5
+B E L O N
+G I N G T
+O A G R E
+A T T E A
+M S T R I
+V I N G F
+O R E X C
+E L L E N
+C E W E M
+A K E A D
+I F F E R
+E N C E X
+O R H E X
+A 5 D 7 5
+To read the hidden message, write out the rows so they form a line of text, when you put in spaces and grammar says: "Belonging to a great team, striving for excellence, we make a difference. XOR hex A5D75."
+You can also decode the message by writing it horizontally, starting a new row every 7 letters, and reading the message down the columns.
+Level 4 
+The clue to solving level 4 is provided at the end of the level 3 solution. The letters XOR hex A5D75 let you know the next code uses binary data, and that A5D75 is the key for the encryption. The binary digits are found in the bottom right third of the coin’s main design area.
+The characters only consist of the letters A-F and numbers 0-9. The block of letters begins with "E3B8287D …" and ends with "… 3831108B". This is the hardest level of the coin puzzle, and the most modern. Most people will need to use a computer to find the answer.
+To decode the block of text, apply the XOR algorithm from each pair of hex characters, which represent one byte, to the corresponding key byte, where the key is 0xA5D75.
+As an example, the first byte of the cipher is 'E3'. When you apply the XOR against 'A5', the first byte of the key, you get '46' which corresponds to 'F' in the standard ASCII alphabet. Applying the second byte of cipher text, 'B8’'against the second key 'D7' results in '6f' which gives you the letter 'o'.
+This is what the XOR hex looks like:
+E3B8287D4290F723 … ⊕
+A5D75A5D75A5D75A … =
+F o r 7 5 y e a  …
+When fully decoded with spaces and grammar included, the hidden message says: "For 75 years the Australian Signals Directorate has brought together people with the skills, adaptability and imagination to operate in the slim area between the difficult and the impossible."
+Bonus Levels!
+You will have noticed different textures on some of the letters used to solve levels 2 and 3 of the coin challenge.
+These form two bonus layers of code with additional messages from ASD.
+Bonus level 1:
+In the outer ring of letters, there are three finishes used. These represent a dot, a dash, and a space, which are used in Morse code.
+When written down in order, the letters look like this:
+MWNVGRXFOLFHRMVCVXFGRLM·URMWXOZIRGBRM7DRWGSC5WVKGS·DVZIVZFWZXRLFHRMXLMXVKGZ
+But when you include the different finishes on each of the letters, the following Morse code is revealed:
+-.. ... -... .- .-.. -... . .-. - .--. .- .-. -.- .---- ----. ....- --...
+This “old technology” reveals the message: "DSB ALBERT PARK 1947"
+This is the year and place of ASD’s birth, with the original name of DSB.
+Bonus level 2:
+The second bonus code is found on the inner ring of letters, where two finishes are used. They represent a 0 and a 1.
+When you write down the finishes, they will display the following result:
+Letters:  BGOAMVOEIATSIRLNGTTNEOGRERGXNTEAIFCECAIEOALEKFNR5LWEFCHDEEAEEE7NMDRXX5
+Markings: 1000001101001110001001000011110001011100100110010011000001100100110010
+When decoded as binary with 7bits per byte, this reveals a ‘new tech’ bonus message: "ASD Cbr 2022"
+
