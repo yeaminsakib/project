@@ -4,5 +4,5 @@ from Crypto.PublicKey import RSA
 key = RSA.generate(2048)
 
 # Create and write the PEM file
-with open('9586.pem', 'wb') as file:  # Replace 12345678 with your student number
+with open('9586.pem', 'wb') as file: 
     file.write(key.export_key('PEM'))
